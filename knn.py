@@ -1,3 +1,5 @@
+
+#thisprogram is used to predict movie ratings of a given movie based on knn
 import pandas as pd
 import numpy as np
 import operator
